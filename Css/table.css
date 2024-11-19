@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+#sam{
+    color: brown;
+    text-align: center;
+}
+h2{
+    background-color: rgb(209, 65, 65);
+
+}
+table th,td{
+    border: 1px dotted;
+    
+}
+
+table td{
+    color: brown;
+}
+.lun{
+    background-color: cadetblue;
+    text-align: center;
+}
+.thead{
+    color: rgb(126, 47, 47);
+     background-color: burlywood;
+}
+#day{
+    background-color: rgb(124, 143, 105);
+}
+#day1{
+     background-color: blueviolet;
+}
+#day2{
+     background-color: aquamarine;
+} 
+#day3{
+     background-color: antiquewhite;
+}
+#day4{
+   background-color: chocolate;
+}

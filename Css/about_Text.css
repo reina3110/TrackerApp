@@ -1,0 +1,59 @@
+h1{
+    text-decoration: overline;
+    text-decoration-color: blue;
+}
+h2{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-transform: lowercase;
+}
+h3{
+    text-decoration: overline underline;
+    text-transform: uppercase;
+}
+
+p .ex{
+    text-decoration: underline overline;
+    text-transform: capitalize;
+   
+}
+p{
+    text-indent: 50px;
+}
+a:link{
+    color: brown;
+}
+/* visited link */
+a:visited{
+    color:blue;
+}
+/* mouse over link */
+a:hover{
+    color: bisque;
+    background-color: blueviolet;
+}
+/* selected link */
+a:active{
+        background-color: darkolivegreen;
+
+}
+.a li{
+    list-style-type: circle;
+   
+}
+.b li{
+    list-style-type: square;
+   
+}
+
+ul.b{
+    list-style-position: inside;
+}
+ tr, th, td{
+    border: 1px solid;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+tr:nth-child(even) {background-color: #d8c3c3;}
